@@ -1,0 +1,5 @@
+interface:
+  display_name: "敦煌石窟 PPT 设计"
+  short_description: "以矿物色层、壁画肌理与空间意境设计灵活幻灯片"
+  brand_color: "#A65037"
+  default_prompt: "使用 $dunhuang-caves 按内容设计具有敦煌石窟艺术意境的演示文稿。"

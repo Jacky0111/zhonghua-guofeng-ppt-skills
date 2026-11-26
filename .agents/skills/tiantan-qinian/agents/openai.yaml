@@ -1,0 +1,5 @@
+interface:
+  display_name: "天坛祈年 PPT 设计"
+  short_description: "以宝蓝、朱红与鎏金表达天坛礼制意境"
+  brand_color: "#173B70"
+  default_prompt: "使用 $tiantan-qinian 按内容设计天坛祈年美学演示文稿。"

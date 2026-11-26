@@ -1,0 +1,5 @@
+interface:
+  display_name: "建盏曜变 PPT 设计"
+  short_description: "以玄黑釉地、幽蓝曜斑设计内容自适应幻灯片"
+  brand_color: "#182A54"
+  default_prompt: "使用 $jianzhan-yaobian 根据内容设计建盏曜变风格幻灯片。"

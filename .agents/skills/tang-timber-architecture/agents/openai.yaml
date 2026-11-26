@@ -1,0 +1,5 @@
+interface:
+  display_name: "唐代木构 PPT 设计"
+  short_description: "以木纹、朱红与土黄表达唐代木构气韵"
+  brand_color: "#542D19"
+  default_prompt: "使用 $tang-timber-architecture 按内容设计唐代木构美学演示文稿。"

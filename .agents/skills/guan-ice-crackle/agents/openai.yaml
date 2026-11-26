@@ -1,0 +1,5 @@
+interface:
+  display_name: "官窑冰裂 PPT 设计"
+  short_description: "以粉青厚釉与冰裂片纹设计内容自适应幻灯片"
+  brand_color: "#8CA9A6"
+  default_prompt: "使用 $guan-ice-crackle 依据内容设计官窑冰裂风格幻灯片。"

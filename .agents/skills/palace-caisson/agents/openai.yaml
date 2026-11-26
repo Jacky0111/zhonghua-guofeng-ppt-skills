@@ -1,0 +1,5 @@
+interface:
+  display_name: "宫廷藻井 PPT 设计"
+  short_description: "以石青、石绿与历史彩绘肌理设计灵活幻灯片"
+  brand_color: "#526B72"
+  default_prompt: "使用 $palace-caisson 按内容设计宫廷藻井美学演示文稿。"

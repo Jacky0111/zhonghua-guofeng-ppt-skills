@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1.0.0",
+  "workflows": [
+    {"id": "chinese-style-skill-workflow", "version": "0.1.0", "locales": ["zh-CN", "en"], "humanReviewGate": true}
+  ]
+}

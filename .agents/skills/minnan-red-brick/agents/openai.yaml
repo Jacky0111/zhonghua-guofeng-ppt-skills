@@ -1,0 +1,5 @@
+interface:
+  display_name: "闽南红砖 PPT 设计"
+  short_description: "将砖红肌理与建筑空间融入内容自适应排版"
+  brand_color: "#A74432"
+  default_prompt: "使用 $minnan-red-brick 按内容设计具有闽南红砖建筑美学的演示文稿。"

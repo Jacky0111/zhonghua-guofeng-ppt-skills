@@ -1,0 +1,5 @@
+interface:
+  display_name: "乾隆珐琅彩 PPT 设计"
+  short_description: "以粉红松石绿釉光设计灵活雅致的幻灯片"
+  brand_color: "#B66E78"
+  default_prompt: "使用 $qianlong-enamel 按输入内容设计乾隆珐琅彩美学幻灯片。"

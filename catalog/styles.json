@@ -1,0 +1,186 @@
+{
+  "schemaVersion": "1.0.0",
+  "styles": [
+    {
+      "id": "ruyao-blue-slide-design",
+      "version": "0.1.0",
+      "category": "ceramics/ruyao",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/ruyao-blue-slide-design/assets/README.md"
+      ]
+    },
+    {
+      "id": "guan-ice-crackle",
+      "version": "0.1.0",
+      "category": "ceramics/guan-ware",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/guan-ice-crackle/assets/README.md",
+        ".agents/skills/guan-ice-crackle/references/sources.md"
+      ]
+    },
+    {
+      "id": "junyao-kiln-transformation",
+      "version": "0.1.0",
+      "category": "ceramics/junyao",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/junyao-kiln-transformation/assets/README.md",
+        ".agents/skills/junyao-kiln-transformation/references/sources.md"
+      ]
+    },
+    {
+      "id": "jianzhan-yaobian",
+      "version": "0.1.0",
+      "category": "ceramics/jian-ware",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/jianzhan-yaobian/assets/README.md",
+        ".agents/skills/jianzhan-yaobian/references/sources.md"
+      ]
+    },
+    {
+      "id": "qianlong-enamel",
+      "version": "0.1.0",
+      "category": "ceramics/qianlong-enamel",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/qianlong-enamel/assets/README.md",
+        ".agents/skills/qianlong-enamel/references/sources.md"
+      ]
+    },
+    {
+      "id": "ming-forbidden-city",
+      "version": "0.1.0",
+      "category": "architecture/palace/ming",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/ming-forbidden-city/assets/README.md",
+        ".agents/skills/ming-forbidden-city/references/sources.md"
+      ]
+    },
+    {
+      "id": "tiantan-qinian",
+      "version": "0.1.0",
+      "category": "architecture/ritual/temple-of-heaven",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/tiantan-qinian/assets/README.md",
+        ".agents/skills/tiantan-qinian/references/sources.md"
+      ]
+    },
+    {
+      "id": "palace-caisson",
+      "version": "0.1.0",
+      "category": "architecture/palace/caisson",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/palace-caisson/assets/README.md",
+        ".agents/skills/palace-caisson/references/sources.md"
+      ]
+    },
+    {
+      "id": "tang-timber-architecture",
+      "version": "0.1.0",
+      "category": "architecture/timber/tang",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/tang-timber-architecture/assets/README.md",
+        ".agents/skills/tang-timber-architecture/references/sources.md"
+      ]
+    },
+    {
+      "id": "song-dougong",
+      "version": "0.1.0",
+      "category": "architecture/timber/song",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/song-dougong/assets/README.md",
+        ".agents/skills/song-dougong/references/sources.md"
+      ]
+    },
+    {
+      "id": "huizhou-architecture",
+      "version": "0.1.0",
+      "category": "architecture/regional/huizhou",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/huizhou-architecture/assets/README.md",
+        ".agents/skills/huizhou-architecture/references/sources.md"
+      ]
+    },
+    {
+      "id": "dunhuang-caves",
+      "version": "0.1.0",
+      "category": "art/mural/dunhuang",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/dunhuang-caves/assets/README.md",
+        ".agents/skills/dunhuang-caves/references/sources.md"
+      ]
+    },
+    {
+      "id": "minnan-red-brick",
+      "version": "0.1.0",
+      "category": "architecture/regional/minnan",
+      "locales": [
+        "zh-CN",
+        "en"
+      ],
+      "assetRights": "cleared",
+      "references": [
+        ".agents/skills/minnan-red-brick/assets/README.md",
+        ".agents/skills/minnan-red-brick/references/sources.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "宋式斗拱 PPT 设计"
+  short_description: "以宋式承托秩序与温润材质设计灵活幻灯片"
+  brand_color: "#6A4936"
+  default_prompt: "使用 $song-dougong 设计一份具有宋式斗拱美学且内容自适应的演示文稿。"

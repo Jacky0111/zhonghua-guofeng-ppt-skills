@@ -1,0 +1,5 @@
+interface:
+  display_name: "中国美学风格导入工作流"
+  short_description: "调查、预览、审核并双语创建中国美学设计 Skill"
+  brand_color: "#245071"
+  default_prompt: "使用 $chinese-style-skill-workflow 启动新风格：<风格名称>。"

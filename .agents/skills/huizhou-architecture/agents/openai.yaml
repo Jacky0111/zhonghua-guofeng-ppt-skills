@@ -1,0 +1,5 @@
+interface:
+  display_name: "徽派建筑 PPT 设计"
+  short_description: "以黑白灰、建筑体量与自然光影设计灵活幻灯片"
+  brand_color: "#555453"
+  default_prompt: "使用 $huizhou-architecture 按内容设计具有徽派建筑空间美学的演示文稿。"

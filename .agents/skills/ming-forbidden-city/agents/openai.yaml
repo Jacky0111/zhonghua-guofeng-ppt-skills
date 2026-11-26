@@ -1,0 +1,5 @@
+interface:
+  display_name: "明代故宫 PPT 设计"
+  short_description: "以朱红、帝王金与宫墙光影设计灵活幻灯片"
+  brand_color: "#9E281B"
+  default_prompt: "使用 $ming-forbidden-city 按内容设计明代故宫建筑美学演示文稿。"

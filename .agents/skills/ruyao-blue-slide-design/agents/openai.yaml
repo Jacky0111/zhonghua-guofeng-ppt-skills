@@ -1,0 +1,5 @@
+interface:
+  display_name: "汝窑天青幻灯片设计"
+  short_description: "采用汝窑青瓷与青蓝色系设计幻灯片"
+  brand_color: "#245071"
+  default_prompt: "使用 $ruyao-blue-slide-design 创建或修改这些幻灯片。"

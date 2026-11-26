@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:chinese-aesthetic-ppt:style-pack.schema.json",
+  "title": "Chinese Aesthetic PPT style pack",
+  "type": "object",
+  "required": ["id", "version", "category", "locales", "assetRights"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "version": {"type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"},
+    "category": {"type": "string"},
+    "locales": {"type": "array", "items": {"enum": ["zh-CN", "en"]}, "uniqueItems": true},
+    "assetRights": {"enum": ["cleared", "review-required", "local-only"]},
+    "references": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "钧窑窑变 PPT 设计"
+  short_description: "以天蓝紫红窑变与流动釉色设计幻灯片"
+  brand_color: "#645080"
+  default_prompt: "使用 $junyao-kiln-transformation 依据内容设计钧窑窑变风格幻灯片。"
