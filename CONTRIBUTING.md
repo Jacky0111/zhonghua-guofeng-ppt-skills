@@ -27,7 +27,7 @@
 
 ## 版本管理
 
-遵循语义化版本：不兼容改动（Skill ID、目录、调用方式）升主版本，0.x 阶段升次版本；向下兼容的新风格或能力升次版本；修正升修订号。同步更新 `VERSION`、`catalog/`、README 页眉与版本表和 `CHANGELOG.md`。Skill 版本当前与集合版本一致。
+遵循语义化版本：不兼容改动（Skill ID、目录、调用方式）升主版本，0.x 阶段升次版本；向下兼容的新风格或能力升次版本；修正升修订号。同步更新 `VERSION`、`catalog/`、README 页眉与版本表和 `CHANGELOG.md`。每个 Skill 在 `catalog/` 中维护独立版本，可与集合版本（`VERSION`）不同；README 版本表须与 `catalog/` 一致。
 
 ## 双语维护
 

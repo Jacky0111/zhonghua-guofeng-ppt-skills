@@ -48,10 +48,11 @@ def validate_versions(repo: Path) -> list[str]:
     if not latest or latest.group(1) != version:
         errors.append(f"{repo.name}/CHANGELOG.md 最新版本与 VERSION 不一致 latest entry differs")
     for item in items:
-        if item.get("version") != version:
-            errors.append(f"{repo.name}/{item.get('id')} 版本不一致 version differs: {item.get('version')}")
+        own = str(item.get("version"))
+        if not re.fullmatch(r"\d+\.\d+\.\d+", own):
+            errors.append(f"{repo.name}/{item.get('id')} 版本格式无效 invalid version: {own}")
         row = re.search(rf"(?m)^\| `{re.escape(str(item.get('id')))}` \|.*\| `([^`]+)` \|$", readme)
-        if row and row.group(1) != version:
+        if row and row.group(1) != str(item.get("version")):
             errors.append(f"{repo.name}/README.md 版本不一致 version differs: {item.get('id')}")
         if not row and "category" in item:
             errors.append(f"{repo.name}/README.md 缺少版本表行 missing version row: {item.get('id')}")
@@ -236,11 +237,18 @@ def main() -> int:
             source, mirror = repos[0] / "catalog" / name, root / "catalog" / name
             if source.is_file() and (not mirror.is_file() or mirror.read_bytes() != source.read_bytes()):
                 all_errors.append(f"根 catalog/{name} 与发行目录不一致 root catalog differs")
-        version_file, readme = repos[0] / "VERSION", root / "README.md"
-        if version_file.is_file() and readme.is_file():
-            version = version_file.read_text(encoding="utf-8").strip()
-            rows = re.findall(r"(?m)^\| `[a-z0-9-]+` \|.*\| `([^`]+)` \|$", readme.read_text(encoding="utf-8"))
-            if any(row != version for row in rows):
+            other = repos[1] / "catalog" / name
+            if source.is_file() and (not other.is_file() or other.read_bytes() != source.read_bytes()):
+                all_errors.append(f"中英文 catalog/{name} 不一致 repository catalogs differ")
+        readme = root / "README.md"
+        try:
+            styles = json.loads((repos[0] / "catalog/styles.json").read_text(encoding="utf-8"))["styles"]
+            versions = {item["id"]: item["version"] for item in styles}
+        except (OSError, ValueError, KeyError, TypeError):
+            versions = {}
+        if versions and readme.is_file():
+            rows = re.findall(r"(?m)^\| `([a-z0-9-]+)` \|.*\| `([^`]+)` \|$", readme.read_text(encoding="utf-8"))
+            if any(versions.get(skill_id) != row for skill_id, row in rows):
                 all_errors.append("根 README.md 版本不一致 root README version differs")
     if args.release:
         for repo in repos:
