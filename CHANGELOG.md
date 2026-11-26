@@ -2,6 +2,15 @@
 
 版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。0.x 阶段的接口仍可能变化。中英文仓库版本一致。
 
+## [0.2.2] - 2026-11-26
+
+### 修正
+
+- 处理 `KNOWN-ISSUES.md` 全部 20 项：修订 15 张示例图，其余补充来源记录。
+- 改写超出来源的表述（官窑、钧窑、徽派村落、闽南院落、天坛重建、佛光寺）；删除无法核实的图内脚注与书目题名。
+- 汝窑窑址页移除地图，并新增独立结束页；移除天坛失效来源链接。
+- 版本：`ruyao-blue-slide-design` `2.7.1`、`guan-ice-crackle` `0.2.2`、`junyao-kiln-transformation` `0.2.2`、`jianzhan-yaobian` `2.1.1`、`ming-forbidden-city` `2.5.1`、`tiantan-qinian` `2.1.1`、`palace-caisson` `0.2.2`、`tang-timber-architecture` `2.2.1`、`song-dougong` `0.2.2`、`huizhou-architecture` `0.2.2`、`dunhuang-caves` `0.2.2`、`minnan-red-brick` `0.2.2`。
+
 ## [0.2.1] - 2026-11-26
 
 ### 变更

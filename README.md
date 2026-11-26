@@ -14,7 +14,7 @@
   <a href="https://github.com/Jacky0111/zhonghua-guofeng-ppt-skills/stargazers"><img src="https://img.shields.io/github/stars/Jacky0111/zhonghua-guofeng-ppt-skills?style=for-the-badge&color=8C2A22" alt="GitHub Stars"></a>
 </p>
 
-<p align="center">作者：Jacky0111 · 版本 <code>0.2.1</code>（<a href="CHANGELOG.md">更新记录</a>）</p>
+<p align="center">作者：Jacky0111 · 版本 <code>0.2.2</code>（<a href="CHANGELOG.md">更新记录</a>）</p>
 
 从中国陶瓷、古典建筑与石窟艺术中提炼色彩、材质、纹理、光泽与空间秩序，转译为内容驱动的现代演示设计。本库包含 13 个风格 Skill 与 1 个新风格导入工作流。
 
@@ -50,19 +50,19 @@
 
 | 稳定 ID | 风格 | 分类 | 版本 |
 |---|---|---|---|
-| `ruyao-blue-slide-design` | 汝窑天青 | 陶瓷 / 汝窑 | `2.7.0` |
-| `guan-ice-crackle` | 官窑冰裂 | 陶瓷 / 官窑 | `0.2.1` |
-| `junyao-kiln-transformation` | 钧窑窑变 | 陶瓷 / 钧窑 | `0.2.1` |
-| `jianzhan-yaobian` | 建盏曜变 | 陶瓷 / 建窑 | `2.1.0` |
+| `ruyao-blue-slide-design` | 汝窑天青 | 陶瓷 / 汝窑 | `2.7.1` |
+| `guan-ice-crackle` | 官窑冰裂 | 陶瓷 / 官窑 | `0.2.2` |
+| `junyao-kiln-transformation` | 钧窑窑变 | 陶瓷 / 钧窑 | `0.2.2` |
+| `jianzhan-yaobian` | 建盏曜变 | 陶瓷 / 建窑 | `2.1.1` |
 | `qianlong-enamel` | 乾隆珐琅彩 | 陶瓷 / 乾隆珐琅彩 | `0.2.1` |
-| `ming-forbidden-city` | 明代故宫 | 建筑 / 宫殿 / 明代 | `2.5.0` |
-| `tiantan-qinian` | 天坛祈年 | 建筑 / 礼制 / 天坛 | `2.1.0` |
-| `palace-caisson` | 宫廷藻井 | 建筑 / 宫殿 / 藻井 | `0.2.1` |
-| `tang-timber-architecture` | 唐代木构 | 建筑 / 木构 / 唐代 | `2.2.0` |
-| `song-dougong` | 宋式斗拱 | 建筑 / 木构 / 宋代 | `0.2.1` |
-| `huizhou-architecture` | 徽派建筑 | 建筑 / 地域 / 徽州 | `0.2.1` |
-| `dunhuang-caves` | 敦煌石窟 | 美术 / 壁画 / 敦煌 | `0.2.1` |
-| `minnan-red-brick` | 闽南红砖 | 建筑 / 地域 / 闽南 | `0.2.1` |
+| `ming-forbidden-city` | 明代故宫 | 建筑 / 宫殿 / 明代 | `2.5.1` |
+| `tiantan-qinian` | 天坛祈年 | 建筑 / 礼制 / 天坛 | `2.1.1` |
+| `palace-caisson` | 宫廷藻井 | 建筑 / 宫殿 / 藻井 | `0.2.2` |
+| `tang-timber-architecture` | 唐代木构 | 建筑 / 木构 / 唐代 | `2.2.1` |
+| `song-dougong` | 宋式斗拱 | 建筑 / 木构 / 宋代 | `0.2.2` |
+| `huizhou-architecture` | 徽派建筑 | 建筑 / 地域 / 徽州 | `0.2.2` |
+| `dunhuang-caves` | 敦煌石窟 | 美术 / 壁画 / 敦煌 | `0.2.2` |
+| `minnan-red-brick` | 闽南红砖 | 建筑 / 地域 / 闽南 | `0.2.2` |
 
 工作流：`chinese-style-skill-workflow`（调查、设计方案、五页预览、人工审核、双语实施）。
 

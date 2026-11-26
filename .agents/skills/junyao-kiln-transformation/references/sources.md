@@ -16,3 +16,10 @@
 - [故宫博物院：钧窑天蓝釉紫红斑碗](https://www.dpm.org.cn/collection/ceramic/227947.html)
 - [故宫博物院：钧窑学术研讨会综述](https://www.dpm.org.cn/journal/247025.html)
 - [故宫博物院：玫瑰紫釉](https://www.dpm.org.cn/lemmas/239385.html)
+
+## 示例页文字来源（2026-11-26 核查）
+
+以下页面经联网抓取工具读取；新闻与转载内容的证据强度低于馆藏或学术原文，正式引用前请自行复核。
+
+- [故宫博物院：钧窑天蓝窑变釉碗](https://www.dpm.org.cn/collection/ceramic/227954.html) — 窑变起初是窑内自然变化，后被人为利用成为釉装饰。
+- [故宫博物院：钧窑天蓝釉紫红斑折沿盘](https://www.dpm.org.cn/collection/ceramic/227934.html) — 铁、铜呈色形成蓝中带红、紫斑；该件断代标“金？”，钧窑年代存在争议。

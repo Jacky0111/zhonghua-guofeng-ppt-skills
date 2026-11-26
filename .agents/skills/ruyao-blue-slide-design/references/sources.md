@@ -12,3 +12,11 @@
 ## 来源
 
 - [故宫博物院：汝窑天青釉圆洗](https://www.dpm.org.cn/collection/ceramic/227122.html)
+
+## 示例页文字来源（2026-11-26 核查）
+
+以下页面经联网抓取工具读取；新闻与转载内容的证据强度低于馆藏或学术原文，正式引用前请自行复核。
+
+- [故宫博物院：《汝窑》](https://www.dpm.org.cn/lemmas/239400.html) — 釉面细小纹片称“蟹爪纹”。
+- [中国国家博物馆：《汝窑青釉洗》](https://www.chnmuseum.cn/zp/zpml/csp/202203/t20220307_254173.shtml) — 细小开片俗称“蟹爪纹”。
+- [上海博物馆：青釉盘](https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00000310) — 底部见芝麻状支钉痕。支烧钉痕另见上列故宫圆洗页。

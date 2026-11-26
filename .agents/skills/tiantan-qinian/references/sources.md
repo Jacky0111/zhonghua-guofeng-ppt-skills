@@ -14,9 +14,15 @@
 ## 来源
 
 1. [北京市文物局：天坛](https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738088/1742735/364353/index.html) — 历史沿革与建筑信息。
-2. [北京市文物局：《中国传统礼制性建筑上的门》天坛章节（PDF）](https://wwj.beijing.gov.cn/bjww/resource/cms/article/362762/515628/2018052316192538218.pdf) — 天坛礼制建筑背景。
-3. [北京市公园管理中心：天坛的主体建筑——祈年殿](https://gygl.beijing.gov.cn/whgy/whgy_wsgc/201912/t20191206_885633.html) — 祈年殿沿革、用途与形制。
-4. [北京市公园管理中心：祈年殿](https://gygl.beijing.gov.cn/mlgy/mlgy_gyjg01/201912/t20191211_1048233.html) — 建筑与礼仪介绍。
-5. [联合国教科文组织：Temple of Heaven: an Imperial Sacrificial Altar in Beijing](https://whc.unesco.org/en/list/881/) — 天坛整体遗产价值与天地观念。
+2. [北京市公园管理中心：天坛的主体建筑——祈年殿](https://gygl.beijing.gov.cn/whgy/whgy_wsgc/201912/t20191206_885633.html) — 祈年殿沿革、用途与形制。
+3. [北京市公园管理中心：祈年殿](https://gygl.beijing.gov.cn/mlgy/mlgy_gyjg01/201912/t20191211_1048233.html) — 建筑与礼仪介绍。
+4. [联合国教科文组织：Temple of Heaven: an Imperial Sacrificial Altar in Beijing](https://whc.unesco.org/en/list/881/) — 天坛整体遗产价值与天地观念。
 
 具体年份与历史主张以这些机构资料为依据；视觉示例仅是现代设计示意，不作为历史证据。
+
+## 示例页文字来源（2026-11-26 核查）
+
+以下页面经联网抓取工具读取；新闻与转载内容的证据强度低于馆藏或学术原文，正式引用前请自行复核。
+
+- [北京市人民政府网站：《趣说北京》天坛篇](https://www.beijing.gov.cn/shipin/qushuobeijing/19513.html) — 1889 年焚毁，次年下旨重建；重建殿宇与原殿略有差别。
+- [新京报：《天坛祈年殿：北京曾经的最高建筑》](https://m.bjnews.com.cn/detail/163029107414385.html) — 书籍节选：次年重建，光绪二十二年（1896）完工。

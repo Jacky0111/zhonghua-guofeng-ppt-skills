@@ -11,3 +11,5 @@
 | `examples/05-ending.png` | 结束页 | 结束页示例 | `imagegen` 新生成；按已确认的官窑冰裂方向补齐 | 观察冰裂纹理如何随内容收束；不固定构图 |
 
 史实出处见 [`references/sources.md`](../references/sources.md)。示例图中可见的文案不自动构成史实依据。
+
+**修订记录（2026-11-26）：** `assets/examples/03-history-timeline.png`、`assets/examples/04-powder-celadon.png` 以本仓库原有图片为输入，经 `imagegen` 修订文字或画面元素，因此上述“无参考图”声明不适用于这些修订版本。

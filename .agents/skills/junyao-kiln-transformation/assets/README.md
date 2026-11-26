@@ -11,3 +11,5 @@
 | `examples/05-ending.png` | 结束页 | 结束页示例 | `imagegen` 新生成；按已确认的钧窑方向补齐 | 观察流动色层如何收束；不固定构图 |
 
 历史依据与现代转译边界见 [`references/sources.md`](../references/sources.md)。示例中的文案需按来源核实，不能只凭图片引用。
+
+**修订记录（2026-11-26）：** `assets/examples/04-kiln-story.png` 以本仓库原有图片为输入，经 `imagegen` 修订文字或画面元素，因此上述“无参考图”声明不适用于这些修订版本。
