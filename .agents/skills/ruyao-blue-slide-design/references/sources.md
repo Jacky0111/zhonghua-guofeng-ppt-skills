@@ -12,4 +12,3 @@
 ## 来源
 
 - [故宫博物院：汝窑天青釉圆洗](https://www.dpm.org.cn/collection/ceramic/227122.html)
-- [故宫博物院：汝窑专题资料](https://www.dpm.org.cn/)

@@ -1,0 +1,23 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate repository
+        run: python3 tooling/validate.py
+      - name: Check installer
+        run: bash install.sh guan-ice-crackle "$RUNNER_TEMP/skills"
+      - name: Check release gate on tags
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: python3 tooling/validate.py --release

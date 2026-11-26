@@ -3,7 +3,7 @@
   "styles": [
     {
       "id": "ruyao-blue-slide-design",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "ceramics/ruyao",
       "locales": [
         "zh-CN",
@@ -11,12 +11,13 @@
       ],
       "assetRights": "cleared",
       "references": [
-        ".agents/skills/ruyao-blue-slide-design/assets/README.md"
+        ".agents/skills/ruyao-blue-slide-design/assets/README.md",
+        ".agents/skills/ruyao-blue-slide-design/references/sources.md"
       ]
     },
     {
       "id": "guan-ice-crackle",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "ceramics/guan-ware",
       "locales": [
         "zh-CN",
@@ -30,7 +31,7 @@
     },
     {
       "id": "junyao-kiln-transformation",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "ceramics/junyao",
       "locales": [
         "zh-CN",
@@ -44,7 +45,7 @@
     },
     {
       "id": "jianzhan-yaobian",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "ceramics/jian-ware",
       "locales": [
         "zh-CN",
@@ -58,7 +59,7 @@
     },
     {
       "id": "qianlong-enamel",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "ceramics/qianlong-enamel",
       "locales": [
         "zh-CN",
@@ -72,7 +73,7 @@
     },
     {
       "id": "ming-forbidden-city",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/palace/ming",
       "locales": [
         "zh-CN",
@@ -86,7 +87,7 @@
     },
     {
       "id": "tiantan-qinian",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/ritual/temple-of-heaven",
       "locales": [
         "zh-CN",
@@ -100,7 +101,7 @@
     },
     {
       "id": "palace-caisson",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/palace/caisson",
       "locales": [
         "zh-CN",
@@ -114,7 +115,7 @@
     },
     {
       "id": "tang-timber-architecture",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/timber/tang",
       "locales": [
         "zh-CN",
@@ -128,7 +129,7 @@
     },
     {
       "id": "song-dougong",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/timber/song",
       "locales": [
         "zh-CN",
@@ -142,7 +143,7 @@
     },
     {
       "id": "huizhou-architecture",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/regional/huizhou",
       "locales": [
         "zh-CN",
@@ -156,7 +157,7 @@
     },
     {
       "id": "dunhuang-caves",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "art/mural/dunhuang",
       "locales": [
         "zh-CN",
@@ -170,7 +171,7 @@
     },
     {
       "id": "minnan-red-brick",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "architecture/regional/minnan",
       "locales": [
         "zh-CN",
